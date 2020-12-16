@@ -19,6 +19,9 @@ header .header-bottom {
 header .header-bottom li {
   list-style: none;
   margin-right: 30px;
+}
+header .header-bottom li a {
+  text-decoration: none;
   color: #4b4a4a;
 }
 
@@ -41,6 +44,10 @@ body {
 .container-small {
   width: 1000px;
   margin: 0 auto;
+}
+
+.blue {
+  color: blue;
 }
 
 main {

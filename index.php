@@ -14,11 +14,21 @@
         </div>
         <div class="header-bottom">
         <ul class="flex">
-            <li>Introduzione</li>
-            <li>Norme sulla privacy</li>
-            <li>Termini di servizio</li>
-            <li>Tecnologie</li>
-            <li>Domande frequenti</li>
+            <li>
+                <a href="#">Introduzione</a>
+            </li>
+            <li>
+                <a href="#">Norme sulla privacy</a>
+            </li>
+            <li>
+                <a href="#">Termini di servizio</a>
+            </li>
+            <li>
+                <a href="#">Tecnologie</a>
+            </li>
+            <li>
+                <a href="#">Domande frequenti</a>
+            </li>
         </ul>
         </div>
 

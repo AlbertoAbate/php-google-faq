@@ -14,11 +14,18 @@ header {
     }
     .header-bottom {
         margin-top: 15px;
-        
-        & li { 
-            list-style: none;
+
+        & li {  
+            list-style: none;           
             margin-right: 30px;
-            color: #4b4a4a ;
+
+            a {
+              text-decoration: none;
+              color: #4b4a4a ;
+            }
+            
         }
+        
+        
     }
 }
